@@ -3,3 +3,7 @@ log.html
 test_wild/
 build/
 binding.gyp
+rescript.dylib
+rescript.so
+rescript.dll
+tree-sitter-rescript.wasm
