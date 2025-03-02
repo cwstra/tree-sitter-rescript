@@ -6,7 +6,8 @@
   "license": "MIT",
   "dependencies": {
     "nan": "^2.15.0",
-    "node-addon-api": "^8.0.0"
+    "node-addon-api": "^8.0.0",
+    "node-gyp-build": "^4.8.4"
   },
   "devDependencies": {
     "simple-git-hooks": "^2.11.1",
