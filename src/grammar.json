@@ -1,5 +1,4 @@
 {
-  "$schema": "https://tree-sitter.github.io/tree-sitter/assets/schemas/grammar.schema.json",
   "name": "rescript",
   "rules": {
     "source_file": {
@@ -8612,6 +8611,5 @@
     "_type",
     "module_expression",
     "module_primary_expression"
-  ],
-  "reserved": {}
+  ]
 }
